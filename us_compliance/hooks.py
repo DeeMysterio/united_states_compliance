@@ -66,7 +66,7 @@ app_license = "MIT"
 # ------------
 
 # before_install = "us_compliance.install.before_install"
-# after_install = "us_compliance.install.after_install"
+after_install = "us_compliance.install.after_install"
 
 # Uninstallation
 # ------------
